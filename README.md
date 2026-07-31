@@ -30,8 +30,7 @@
   **What I do:**
   - 🔧 Develop robust backend APIs with FastAPI and Laravel
   - 🎨 Build responsive frontends with Vue.js and Tailwind CSS
-  - 🛡️ Explore cybersecurity and network infrastructure
-  - 🤖 Work on AI-driven projects
+  - 🛡️ Explore cybersecurity 
   - 🐧 Linux enthusiast 
 
   
@@ -68,7 +67,6 @@
 
 - 🎓 **Cisco Network Academy** - Formations en réseau et cybersécurité
 - 💻 Full Stack Web Development - Pratique constante
-- 🤖 Apprentissage continu en IA et Machine Learning
 
 ---
 
